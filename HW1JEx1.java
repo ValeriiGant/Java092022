@@ -1,5 +1,5 @@
 package HW1JEx;
-//  Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
+//Exception//Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
 
 import java.io.BufferedReader;
 import java.io.FileReader;
